@@ -48,9 +48,11 @@ I will keep updating this repository as I solve more problems.
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
