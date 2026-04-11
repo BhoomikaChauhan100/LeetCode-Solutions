@@ -48,6 +48,7 @@ I will keep updating this repository as I solve more problems.
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0525-contiguous-array](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0525-contiguous-array) |
@@ -70,6 +71,7 @@ I will keep updating this repository as I solve more problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -97,4 +99,8 @@ I will keep updating this repository as I solve more problems.
 | [0525-contiguous-array](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
