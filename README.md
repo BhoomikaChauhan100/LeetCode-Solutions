@@ -53,6 +53,7 @@ I will keep updating this repository as I solve more problems.
 | [0152-maximum-product-subarray](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0525-contiguous-array](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -77,11 +78,13 @@ I will keep updating this repository as I solve more problems.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Recursion
 |  |
@@ -108,6 +111,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,4 +128,12 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+## Greedy
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
