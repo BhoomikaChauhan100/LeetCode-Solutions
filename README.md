@@ -37,7 +37,7 @@ I am solving problems daily to improve my **Data Structures and Algorithms (DSA)
 
 ## Progress
 
-Total Problems Solved: **11**
+Total Problems Solved: **47**
 
 I will keep updating this repository as I solve more problems.
 
