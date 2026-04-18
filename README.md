@@ -80,6 +80,7 @@ I will keep updating this repository as I solve more problems.
 | [0143-reorder-list](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0457-circular-array-loop](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
+| [0567-permutation-in-string](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Stack
@@ -100,6 +101,7 @@ I will keep updating this repository as I solve more problems.
 | [0457-circular-array-loop](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
 | [0525-contiguous-array](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
 | ------- |
@@ -124,11 +126,13 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 ## String
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
