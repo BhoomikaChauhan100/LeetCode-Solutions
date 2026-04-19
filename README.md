@@ -96,6 +96,7 @@ I will keep updating this repository as I solve more problems.
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0202-happy-number](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0457-circular-array-loop](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
@@ -125,12 +126,14 @@ I will keep updating this repository as I solve more problems.
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
