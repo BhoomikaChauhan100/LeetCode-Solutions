@@ -51,6 +51,7 @@ I will keep updating this repository as I solve more problems.
 | [0016-3sum-closest](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0327-count-of-range-sum](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 | [0457-circular-array-loop](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
 | [0525-contiguous-array](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -124,6 +125,7 @@ I will keep updating this repository as I solve more problems.
 ## Binary Search
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
@@ -154,6 +156,7 @@ I will keep updating this repository as I solve more problems.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -163,4 +166,20 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
+## Merge Sort
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
+## Ordered Set
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
