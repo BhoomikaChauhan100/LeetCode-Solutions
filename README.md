@@ -201,5 +201,6 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0595-big-countries) |
+| [1527-patients-with-a-condition](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/1527-patients-with-a-condition) |
 | [1757-recyclable-and-low-fat-products](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
