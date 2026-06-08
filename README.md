@@ -200,6 +200,7 @@ I will keep updating this repository as I solve more problems.
 ## Database
 |  |
 | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0595-big-countries](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0595-big-countries) |
 | [1527-patients-with-a-condition](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/1527-patients-with-a-condition) |
 | [1683-invalid-tweets](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/1683-invalid-tweets) |
