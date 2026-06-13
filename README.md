@@ -50,6 +50,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0016-3sum-closest](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0327-count-of-range-sum](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
@@ -225,4 +226,8 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0383-ransom-note) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
