@@ -107,6 +107,7 @@ I will keep updating this repository as I solve more problems.
 | [0030-substring-with-concatenation-of-all-words](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0202-happy-number](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0383-ransom-note](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0457-circular-array-loop](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
 | [0525-contiguous-array](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0525-contiguous-array) |
@@ -150,6 +151,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0383-ransom-note](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
@@ -217,4 +219,8 @@ I will keep updating this repository as I solve more problems.
 | [1527-patients-with-a-condition](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/1527-patients-with-a-condition) |
 | [1683-invalid-tweets](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
