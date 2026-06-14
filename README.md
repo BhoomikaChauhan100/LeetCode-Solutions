@@ -221,6 +221,7 @@ I will keep updating this repository as I solve more problems.
 | [0596-classes-with-at-least-5-students](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
