@@ -49,6 +49,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+| [0035-search-insert-position](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -136,6 +137,7 @@ I will keep updating this repository as I solve more problems.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0327-count-of-range-sum](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
