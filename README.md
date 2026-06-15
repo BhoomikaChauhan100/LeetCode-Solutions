@@ -122,6 +122,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0069-sqrtx](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0367-valid-perfect-square](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -142,6 +143,7 @@ I will keep updating this repository as I solve more problems.
 | [0035-search-insert-position](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0327-count-of-range-sum](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
+| [0367-valid-perfect-square](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
