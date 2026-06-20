@@ -255,6 +255,7 @@ I will keep updating this repository as I solve more problems.
 | [1251-average-selling-price](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/1407-top-travellers) |
+| [1517-find-users-with-valid-e-mails](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/1661-average-time-of-process-per-machine) |
