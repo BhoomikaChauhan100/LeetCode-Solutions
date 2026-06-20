@@ -96,6 +96,7 @@ I will keep updating this repository as I solve more problems.
 | [0016-3sum-closest](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0143-reorder-list](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0143-reorder-list) |
@@ -174,6 +175,7 @@ I will keep updating this repository as I solve more problems.
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0383-ransom-note](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -271,4 +273,8 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0136-single-number) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
