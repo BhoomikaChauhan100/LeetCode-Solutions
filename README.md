@@ -257,6 +257,7 @@ I will keep updating this repository as I solve more problems.
 | [1075-project-employees-i](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/1251-average-selling-price) |
+| [1280-students-and-examinations](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/1407-top-travellers) |
 | [1517-find-users-with-valid-e-mails](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/1517-find-users-with-valid-e-mails) |
