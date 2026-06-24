@@ -272,6 +272,7 @@ I will keep updating this repository as I solve more problems.
 | [1683-invalid-tweets](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+| [1965-employees-with-missing-information](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/1965-employees-with-missing-information) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Counting
