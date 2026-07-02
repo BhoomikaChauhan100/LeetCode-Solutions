@@ -62,6 +62,7 @@ I will keep updating this repository as I solve more problems.
 | [0219-contains-duplicate-ii](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0327-count-of-range-sum](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0457-circular-array-loop](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
 | [0525-contiguous-array](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0525-contiguous-array) |
@@ -104,6 +105,7 @@ I will keep updating this repository as I solve more problems.
 | [0202-happy-number](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0457-circular-array-loop](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
 | [0567-permutation-in-string](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -124,6 +126,7 @@ I will keep updating this repository as I solve more problems.
 | [0030-substring-with-concatenation-of-all-words](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0202-happy-number](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0457-circular-array-loop](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
@@ -152,6 +155,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Binary Search
@@ -162,6 +166,7 @@ I will keep updating this repository as I solve more problems.
 | [0035-search-insert-position](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0327-count-of-range-sum](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0704-binary-search) |
