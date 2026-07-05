@@ -71,6 +71,7 @@ I will keep updating this repository as I solve more problems.
 | [0704-binary-search](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [0821-shortest-distance-to-a-character](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -111,6 +112,7 @@ I will keep updating this repository as I solve more problems.
 | [0557-reverse-words-in-a-string-iii](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0821-shortest-distance-to-a-character](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
@@ -194,6 +196,7 @@ I will keep updating this repository as I solve more problems.
 | [0541-reverse-string-ii](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
