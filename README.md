@@ -59,6 +59,7 @@ I will keep updating this repository as I solve more problems.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0217-contains-duplicate](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0327-count-of-range-sum](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
@@ -129,6 +130,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0202-happy-number](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0383-ransom-note) |
@@ -159,6 +161,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+| [0217-contains-duplicate](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
