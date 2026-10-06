@@ -62,6 +62,7 @@ I will keep updating this repository as I solve more problems.
 | [0217-contains-duplicate](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0327-count-of-range-sum](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -153,6 +154,7 @@ I will keep updating this repository as I solve more problems.
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -337,4 +339,8 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0100-same-tree](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
