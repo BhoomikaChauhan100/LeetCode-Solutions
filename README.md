@@ -55,6 +55,7 @@ I will keep updating this repository as I solve more problems.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
