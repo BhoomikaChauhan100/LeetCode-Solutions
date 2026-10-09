@@ -68,6 +68,7 @@ I will keep updating this repository as I solve more problems.
 | [0327-count-of-range-sum](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0457-circular-array-loop](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
 | [0525-contiguous-array](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -88,6 +89,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0918-maximum-sum-circular-subarray](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -171,6 +173,7 @@ I will keep updating this repository as I solve more problems.
 | [0217-contains-duplicate](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Binary Search
 |  |
@@ -218,6 +221,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Monotonic Stack
 |  |
