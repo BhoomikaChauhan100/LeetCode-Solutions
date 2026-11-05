@@ -61,6 +61,7 @@ I will keep updating this repository as I solve more problems.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -111,6 +112,7 @@ I will keep updating this repository as I solve more problems.
 | [0061-rotate-list](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0143-reorder-list](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [0189-rotate-array](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -153,6 +155,7 @@ I will keep updating this repository as I solve more problems.
 | [0007-reverse-integer](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 ## Prefix Sum
