@@ -99,6 +99,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0143-reorder-list](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0143-reorder-list) |
 ## Two Pointers
@@ -111,6 +112,7 @@ I will keep updating this repository as I solve more problems.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0202-happy-number) |
