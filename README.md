@@ -79,6 +79,7 @@ I will keep updating this repository as I solve more problems.
 | [0713-subarray-product-less-than-k](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0821-shortest-distance-to-a-character](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -125,6 +126,7 @@ I will keep updating this repository as I solve more problems.
 | [0567-permutation-in-string](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0821-shortest-distance-to-a-character](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
@@ -221,6 +223,7 @@ I will keep updating this repository as I solve more problems.
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
@@ -323,6 +326,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0832-flipping-an-image](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 ## String Matching
 |  |
 | ------- |
@@ -331,6 +335,7 @@ I will keep updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0832-flipping-an-image](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 ## Tree
 |  |
 | ------- |
