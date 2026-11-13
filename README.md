@@ -130,6 +130,7 @@ I will keep updating this repository as I solve more problems.
 | [0821-shortest-distance-to-a-character](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [4030-check-ascii-palindromic](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/4030-check-ascii-palindromic) |
 ## Stack
 |  |
 | ------- |
@@ -223,6 +224,7 @@ I will keep updating this repository as I solve more problems.
 | [0809-expressive-words](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0809-expressive-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [4030-check-ascii-palindromic](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/4030-check-ascii-palindromic) |
 ## Simulation
 |  |
 | ------- |
@@ -330,6 +332,7 @@ I will keep updating this repository as I solve more problems.
 | ------- |
 | [0136-single-number](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0832-flipping-an-image](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
+| [4030-check-ascii-palindromic](https://github.com/BhoomikaChauhan100/LeetCode-Solutions/tree/master/4030-check-ascii-palindromic) |
 ## String Matching
 |  |
 | ------- |
